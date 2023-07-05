@@ -1,7 +1,11 @@
 {
-  "description": "Super cool NFT deployed on UZH Ethereum network!",
-  "external_url": "https://commons.wikimedia.org/",
-  "image": "https://commons.wikimedia.org/wiki/Main_Page#/media/File:Rufous-collared_sparrow_(Zonotrichia_capensis_costaricensis)_2.jpg",
-  "name": "Isometric Pixel Art by Peterson Freitas",
-  "attributes": []
+  "tokens": [
+    {
+      "description": "Super cool NFT deployed on UZH Ethereum network!",
+      "external_url": "https://commons.wikimedia.org/",
+      "image": "https://commons.wikimedia.org/wiki/Main_Page#/media/File:Rufous-collared_sparrow_(Zonotrichia_capensis_costaricensis)_2.jpg",
+      "name": "Isometric Pixel Art by Peterson Freitas",
+      "attributes": []
+    }
+  ]
 }
